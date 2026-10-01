@@ -22,7 +22,7 @@ public class ClinicaUniversitariaUDB {
 
         do {
             System.out.println("\n==================================================");
-            System.out.println("   SISTEMA DE GESTIÓN DE CITAS - CLÍNICA UDB");
+            System.out.println("   SISTEMA DE GESTION DE CITAS - CLINICA UDB");
             System.out.println("==================================================");
             System.out.println("1. Registrar Paciente");
             System.out.println("2. Registrar Doctor");
